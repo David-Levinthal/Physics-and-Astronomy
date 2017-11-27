@@ -26,3 +26,7 @@ sections from PhD thesis on analysis leading to first measurement of Rutheford l
 https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/PhD_Thesis_ch4_single%20particle_production_analysis.pdf
 
 https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/PhD_Thesis_ch4-5-6__2%20particle-quark-scattering-analysis.pdf
+
+first experimental measurement of top quark mass, by analysis of radiative corrections in standard model
+
+https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/top_quark_mass_from%20radiative%20corrections_Zeitschrift.pdf
