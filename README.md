@@ -29,7 +29,7 @@ https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/PhD_Thesis_
 
 paper derived from thesis on qurak-quark scattering cross section (Rutheford scattering of partons)
 
-
+https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/quark-quark-scattering-paper-from-thesis.pdf
 
 first experimental measurement of top quark mass, by analysis of radiative corrections in standard model
 
