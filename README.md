@@ -27,6 +27,10 @@ https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/PhD_Thesis_
 
 https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/PhD_Thesis_ch4-5-6__2%20particle-quark-scattering-analysis.pdf
 
+paper derived from thesis on qurak-quark scattering cross section (Rutheford scattering of partons)
+
+
+
 first experimental measurement of top quark mass, by analysis of radiative corrections in standard model
 
 https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/top_quark_mass_from_radiative_corrections_Zeitschrift.pdf
