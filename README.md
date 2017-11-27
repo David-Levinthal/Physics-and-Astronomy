@@ -29,4 +29,4 @@ https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/PhD_Thesis_
 
 first experimental measurement of top quark mass, by analysis of radiative corrections in standard model
 
-https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/top_quark_mass_from%20radiative%20corrections_Zeitschrift.pdf
+
