@@ -20,3 +20,9 @@ https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/stellar_str
 https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/stellar_structure_evolution_and%20cosmology_v4.pdf
 
 https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/stellar_structure_evolution_and%20cosmology_v5.pdf
+
+sections from PhD thesis on analysis leading to first measurement of Rutheford like scattering of quarks
+
+
+
+https://github.com/David-Levinthal/Physics-and-Astronomy/blob/master/PhD_Thesis_ch4-5-6__2%20particle-quark-scattering-analysis.pdf
